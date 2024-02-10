@@ -5,6 +5,7 @@
 ### Preprocessing
 > The audio files were first converted into spectrograms.
 > Then, these spectrograms were transformed into images.
+> 
 > These images were converted to grayscale and resized to 128x128 pixels.
 
 ### Model Architecture
